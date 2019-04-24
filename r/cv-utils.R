@@ -1,8 +1,15 @@
 # # For PDF
+install.packages("rmarkdown")
+# Set the working directory
+setwd("C:/Users/user/Documents/GitHub/Vitae")
 
-file.copy("content/about-source.md", "static/rosenberg-cv.Rmd", overwrite=TRUE)
-rmarkdown::render("static/rosenberg-cv.Rmd", output_format = "pdf_document")
-file.copy("static/rosenberg-cv.pdf", "static/cv/rosenberg-cv.pdf", overwrite=TRUE)
+file.copy("content/about-source.md", "static/magerakis-cv.Rmd", overwrite=TRUE)
+rmarkdown::render("static/magerakis-cv.Rmd", output_format = "pdf_document")
+
+# CRAN version
+install.packages('tinytex')
+
+file.copy("static/magerakis-cv.pdf", "static/cv/magerakis-cv.pdf", overwrite=TRUE)
 
 ## For Word
 file.copy("content/about.md", "content/about-for-cv.md", overwrite=TRUE)
@@ -17,8 +24,8 @@ cv_word <- cv_word[cv_word!="\\hangindent=2em"]
 cv_word <- cv_word[cv_word!="\\center"]
 cv_word <- cv_word[cv_word!="\\endgroup"]
 
-writeLines(unlist(cv_word), "static/cv/rosenberg-cv-for-word.Rmd")
-rmarkdown::render("static/cv/rosenberg-cv-for-word.Rmd", output_format = "word_document")
+writeLines(unlist(cv_word), "static/cv/magerakis-cv-for-word.Rmd")
+rmarkdown::render("static/cv/magerakis-cv-for-word.Rmd", output_format = "word_document")
 
 ## For HTML
 file.copy("content/about-source.md", "content/about.md", overwrite=TRUE)
@@ -38,3 +45,4 @@ cv_html <- cv_html[cv_html!="\\center"]
 cv_html <- cv_html[cv_html!="\\endgroup"]
 
 writeLines(unlist(cv_html), "content/about.md")
+

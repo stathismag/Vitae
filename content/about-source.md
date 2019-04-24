@@ -31,7 +31,7 @@ Corporate Finance, Financial Management & Accounting
 
 ## Education
 
-2022, Ph.D. in Accounting and Finance 
+2022, Ph.D. in Accounting and Finance
 University of Patras
 
 2017, M.Sc. in Applied Economics & Data Analysis 
@@ -47,8 +47,8 @@ Grade 6.12/10
 University of Patras, Río, Greece
 
 2000, High-school Diploma
-Grade 17.8/20 
-High-school of Paralia Patras, Greece
+ Grade 17.8/20
+ High-school of Paralia Patras, Greece
 
 ## Professional Experience
 
@@ -56,27 +56,27 @@ High-school of Paralia Patras, Greece
 University of Tennessee, Knoxville  
 
 2013-present, Accounting Consultant & Analyst, Michanografiki LTD 
-       
- 	       ▪ Review the accounting procedures and recommend improvements
-                        ▪ Perform financial analysis, reporting and management activities
-                        ▪ Prepare and submit monthly financial report and expense report to management
+
+* Review the accounting procedures and recommend improvements
+* Perform financial analysis, reporting and management activities
+* Prepare and submit monthly financial report and expense report to management
 
 2007-2012, Assistant Accountant, Ladopoulos SA
 
-                    ▪ Data entry
-                        ▪ Filling tax forms
-                        ▪ Registration of invoices
+* Data entry
+* Filling tax forms
+* Registration of invoices
 
 2007, Seminar Instructor, Vocational Training SA
  
-                      ▪ Developing Business Plan
-                        ▪ Introduction to Marketing Plan
+* Developing Business Plan
+* Introduction to Marketing Plan
 
 
 2002-2004, Sales Assistant, Lazanas Ford Motor Hellas 
                   
-                  ▪ Warehouse management
-                  ▪ Costumer service
+* Warehouse management
+* Costumer service
 
 
 ## Teaching Experience
