@@ -60,7 +60,7 @@ C.D. Owen High School, Swannanoa, NC
 ### Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Henriksen, D., Mehta, R., & Rosenberg, J. M. (in press). Supporting a creatively focused technology fluent mindset among educators: Survey results from a five-year inquiry into teachers’ confidence in using technology. *Journal of Technology and Teacher Education*
+Cash Holdings and Firm Characteristics: Evidence from UK Market, Magerakis, E., Siriopoulos, C., & Tsagkanos, A., Journal of Risk & Control, 2(1), 19–43, 2015 [html] [pdf]
 
 \hangindent=2em
 Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
@@ -105,42 +105,16 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 \hangindent=2em
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-### Book Chapters
-
-\hangindent=2em
-Rosenberg, J. M., Lawson, M. A., Anderson, D. J., & Rutherford, T. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Data science dilemmas for teaching research methods in learning design and technology. Routledge: New York, NY.
-
-\hangindent=2em
-Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., & Koehler, M. J. (forthcoming). In E. Romero-Hall (Ed.), *Research Methods in Learning Design & Technology.*, Lessons learned from applying Twitter research methods to educational technology phenomena. Routledge: New York, NY.
-
-\hangindent=2em
-Dai, T., Rosenberg, J. M., & Lawson, M. A. (forthcoming). Data representation. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), Routledge Encyclopedia of Education (Online). Taylor & Francis: New York, NY.
-
-\hangindent=2em
-Eidelman, R., Rosenberg, J. M. ,& Shwartz, Y. (in press). E-Learning in chemistry education: Self-regulated learning in a virtual classroom. In D. Ifenthaler, M. Spector, P. Isafas, & S. Sergis (Eds), *Learning technologies for transforming teaching, learning and assessment at large scale*. Berlin, Germany: Springer.  
-
-\hangindent=2em
-Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). Introduction to the 2nd edition of the TPACK handbook. In M. Herring, M. J. Koehler, & P. Mishra (Eds.), *Handbook of Technological Pedagogical Content Knowledge (TPACK) for educators* (2nd ed., pp. 1-8). New York, NY: Routledge. 
-
-\hangindent=2em
-Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education 2016* (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
-
-\hangindent=2em
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education. [Invited reprint of conference presentation in edited book]
-
-\hangindent=2em
-Rosenberg, J. M., & Koehler, M. J. (2015). *Context and teaching with technology in the digital age*. In M.L. Niess & H. Gillow-Wiles (Eds.), Handbook of research on teacher education in the digital age (pp. 440-465). Hershey, PA: IGI Global. 
-
-\hangindent=2em
-Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance assessment of teachers’ TPACK using artifacts from digital portfolios. In L. Liu & D. C. Gibson, *Research highlights in technology and teacher education 2015*. Waynesville, NC: Association for the Advancement of Computing in Education (AACE). [Invited reprint of conference presentation in edited book]
-
-\hangindent=2em
-Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
-
 ### Other Publications
 
 \hangindent=2em
-Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2018). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research.
+Magerakis, E. and Tzelepis, D., Making the Link: Cash Holdings, Managerial Ability and Discretion. Available at SSRN: https://ssrn.com/abstract=3316109 or http://dx.doi.org/10.2139/ssrn.3316109E, January, 2019 [html].
+
+\hangindent=2em
+Magerakis, E., The Role of Business Strategy in Corporate Liquidity: Evidence from US Firms,  MSc Thesis in Economics, University of Patras, Greece, September 2017[html].
+
+\hangindent=2em
+Magerakis, E., Cash Holdings and Firm Characteristics: Evidence from UK Market, MBA Thesis in Business Administration, University of Patras, Greece, June 2015 [html].
 
 \hangindent=2em
 Mehta, R., Henriksen, D., & Rosenberg, J. M. (2019). It's not about the tools. *Educational Leadership, 76*(5), 64-69. Retrieved from http://www.ascd.org/publications/educational-leadership/feb19/vol76/num05/It's-Not-About-the-Tools.aspx
@@ -192,17 +166,14 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 
 ## Awards
 
-2019, Finalist, Association for Science Teacher Education John C. Park National Technology Leadership Institute Fellowship
-
-2017, Council of Graduate Students Disciplinary Leadership Award, Michigan State University
-
-2016, Best Paper Award, TPACK SIG, SITE International Conference
-
-2014, Outstanding Paper Award, Society for Information Technology and Teacher Education International Conference
+2017, Graduated (1st) from MSc of the University of Patras, Department of Economics
+2015, Graduated (1st) from MBA of the University of Patras, Department of Business Administation
+2000, Top 25 students with the highest degree admitted to the University of Patras, Department of Economics 
+1998-2000, Received distinction for high grades, Greek Ministry of Education 
 
 ## Presentations 
 
-### Peer-Reviewed Conference Presentations
+### Peer-Reviewed Conference Papers & Presentations
 
 \hangindent=2em
 Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
@@ -210,6 +181,24 @@ Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). 
 \hangindent=2em
 Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Student engagement profiles in formal and informal STEM learning settings*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
 
+\hangindent=2em
+Magerakis, E. & Tzelepis, D., Making the Link: Cash Holdings, Managerial Ability and Discretion. In 17th HFAA Conference. Athens, Greece, December 14-15, 2018 [html].
+
+\hangindent=2em
+Magerakis, E. & Tzelepis, D., The Role of Business Strategy in Corporate Liquidity: Evidence from US Firms. In IMAEF 2018. Corfu, Greece, June 20-22, 2018 [html].
+
+\hangindent=2em
+Magerakis, E. & Tzelepis, D., The Determinants of Corporate Cash Holdings: Evidence from Greece. In 16th HFAA Conference. Athens, Greece, December 15-16, 2017 [html].
+
+\hangindent=2em
+Magerakis, E. & Loukopoulos, P., Cash Reserves and R&D Investment Effect: A UK Intra-Industry Overview. In 15th HFAA Conference. Athens, Greece, December 16-17, 2016 [html].
+
+\hangindent=2em
+Magerakis, E., Leadership Ethics, CSR & Change management. In 12th Student Conference on Management Science and Technology, “Recent Trends in Management and New Entrepreneurship Perspectives” (pp. 178–187). Athens, Greece, May 14, 2015 [html].
+
+\hangindent=2em
+Magerakis, E., Tsagkanos, A., & Siriopoulos, C., Corporate Liquidity, Firm Size and the Impact of Financial Crisis in UK Market. In 14th HFAA Conference. Athens, Greece, December 18-19, 2015 [html].
+ 
 ### Other Presentations
 
 \hangindent=2em
