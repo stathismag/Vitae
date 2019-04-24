@@ -25,35 +25,124 @@ University of Patras, Greece
 865-974-5973 | smagerakis@upatras.gr | https://smagerakis.netlify.com  
 \endgroup
 
+## Research interests
+
+Corporate Finance, Financial Management & Accounting 
+
 ## Education
 
-2022, PhD, Educational Psychology & Educational Technology  
+2022, Ph.D. in Accounting and Finance 
 University of Patras
 
-2016, Graduate Certificate, Science Education  
-University of Patras
+2017, M.Sc. in Applied Economics & Data Analysis 
+Grade 8.64/10 (1st in class)
+University of Patras, Río, Greece
 
-2012, MBA, Education  
-University of Patras 
+2015, Master in Business Administration 
+Grade 8.64/10 (1st in class)
+University of Patras, Río, Greece
 
-2010, BS, Biology  
-University of North Carolina, Asheville
+2005, BA in Economics 
+Grade 6.12/10
+University of Patras, Río, Greece
 
-2010, Teacher Licensure Program  
-University of North Carolina, Asheville
+2000, High-school Diploma
+Grade 17.8/20 
+High-school of Paralia Patras, Greece
 
 ## Professional Experience
 
 2018-present, Assistant Professor, STEM Education  
 University of Tennessee, Knoxville  
 
-## Related (K-12 Teaching) Experience
+2013-present, Accounting Consultant & Analyst, Michanografiki LTD 
+       
+ 	       ▪ Review the accounting procedures and recommend improvements
+                        ▪ Perform financial analysis, reporting and management activities
+                        ▪ Prepare and submit monthly financial report and expense report to management
+
+2007-2012, Assistant Accountant, Ladopoulos SA
+
+                    ▪ Data entry
+                        ▪ Filling tax forms
+                        ▪ Registration of invoices
+
+2007, Seminar Instructor, Vocational Training SA
+ 
+                      ▪ Developing Business Plan
+                        ▪ Introduction to Marketing Plan
+
+
+2002-2004, Sales Assistant, Lazanas Ford Motor Hellas 
+                  
+                  ▪ Warehouse management
+                  ▪ Costumer service
+
+
+## Teaching Experience
 
 2010-2012, Science Teacher (Biology and Earth Science)  
 Shelby High School, Shelby, NC  
 
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
+
+## Computing skills
+
+Basic (Ms Office, Advanced Excel).
+Accounting (Singular Logic Accountant/Control/Genesis, OTS, Softworks Triton). 
+Data analysis (Targit BI).
+Scientific computing (R, Stata). 
+Markup languages (HTML,CSS).
+Social network analysis (Pajek, NetworkX,Gephi). Digital typesetting (TEX, LATEX).
+
+## Professional affiliations
+
+Certified Economist, Economic Chamber of Greece
+Certified Accountant and Tax Consultant Class A, Economic Chamber of Greece
+
+
+## Programming experience
+2019, Academic Website 
+
+2013, LogotherapeiaKandri
+Website Build & Support, Analytics, Social Media 
+
+2013, EpiplaMagerakis
+Website Build & Support, Analytics, Social Media 
+
+2013, LogotherapeiaKandri 
+Website into Android Application 
+
+## Languages
+
+Greek (native speaker)
+English (professional proficiency)
+French (intermediate proficiency)
+
+## Certifications
+
+City & Guilds - Mastery C2 IESOL & ISESOLCity & Guilds, May 2010
+Delf 1er degré - Unités A1-A4, Ministère chargé de l'Éducation nationale, May 2000
+ECDL Diploma – Word, Excel, Internet, ECDL Foundation
+Computer Practica - PC User, Programmer, COMPUTER PRACTICA
+Diploma in Project Management, ALISON - Free Online Learning, License 276-1270859, Nov 2012
+
+## Seminars & Summer Schools
+
+The New Generally Accepted Accounting Principles in Greece (Greek GAAP), Economic Chamber of Greece (E.C.G.), 27-28/11/2015
+Summer School of Open source Software R, the University of Patras, 23-29/9/2015 (15h)
+Accounting Softworks TRITON, billing application system for water and sewage utility companies, 6/2015
+New Greek GAAP And Accounting, Olympic Training & Consulting Ltd, 2/2015
+Accounting for the management of local authorities (LAs): Genesis, Assets Management, Warehouse, Cost SingularLogic, 4/2015
+Corporate Taxation, Taxheaven, 4/2015
+Financial accounting year-end adjustments and Financial statements syntax, Economic Chamber of Greece (E.C.G.), 4/2015
+Business Administration, Adult Education Centres, http://kee.ideke.edu.gr/ (25h)
+
+## Projects
+CFA Institute Research Challenge in Greece, Local participant with a team of 5 students to prepare a comprehensive sell - side initiating coverage report on Aegean Airlines, Nov 2014 - Mar 2015
+
+
 
 ## Publications
 
@@ -170,6 +259,7 @@ Rosenberg, J. M. (2018). *Understanding work with data in summer STEM programs: 
 2015, Graduated (1st) from MBA of the University of Patras, Department of Business Administation
 2000, Top 25 students with the highest degree admitted to the University of Patras, Department of Economics 
 1998-2000, Received distinction for high grades, Greek Ministry of Education 
+1997-1998, Socrates - Comenius, Participant in European Student Exchange Program. Greece, Sweden & Denmark
 
 ## Presentations 
 
@@ -281,18 +371,6 @@ Reviewer, American Psychological Association (APA) Convention, 2015
 Reviewer, Proposals from Knox County Schools students to the NASA Student Spaceflight Experiment Program
 
 Outreach, data science education workshops with two classes around Knoxville, TN
-
-### Ad-hoc Journal Article Reviews
-
-Education Sciences (2), Journal of Research in Science Teaching, TechTrends, 2019
-
-Contemporary Educational Psychology, Computers & Education, Australasian Journal of Educational Technology (2), Journal of Open Source Software, Asia-Pacific Education Researcher, 2018
-
-Computers & Education, Journal of Educational Technology & Society, 2017
-
-Computers & Education, British Journal of Educational Technology, E-Learning and Digital Media (2), 2016
-
-Contemporary Issues in Technology and Teacher Education, 2015
 
 ### Departmental Service 
 
