@@ -87,7 +87,7 @@ Shelby High School, Shelby, NC
 2009-2010, Science Teacher Intern (Biology and Chemistry)  
 C.D. Owen High School, Swannanoa, NC  
 
-## Computing skills
+## Computing Skills
 
 Basic (Ms Office, Advanced Excel).
 Accounting (Singular Logic Accountant/Control/Genesis, OTS, Softworks Triton). 
@@ -96,13 +96,13 @@ Scientific computing (R, Stata).
 Markup languages (HTML,CSS).
 Social network analysis (Pajek, NetworkX,Gephi). Digital typesetting (TEX, LATEX).
 
-## Professional affiliations
+## Professional Affiliations
 
-Certified Economist, Economic Chamber of Greece
-Certified Accountant and Tax Consultant Class A, Economic Chamber of Greece
+Certified Economist, Economic Chamber of Greece, year-present
+Certified Accountant and Tax Consultant Class A, Economic Chamber of Greece, year to present
 
 
-## Programming experience
+## Programming Experience
 2019, Academic Website 
 
 2013, LogotherapeiaKandri
