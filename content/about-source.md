@@ -78,7 +78,6 @@ University of Tennessee, Knoxville
 * Warehouse management
 * Costumer service
 
-
 ## Teaching Experience
 
 2010-2012, Science Teacher (Biology and Earth Science)  
@@ -100,7 +99,6 @@ Social network analysis (Pajek, NetworkX,Gephi). Digital typesetting (TEX, LATEX
 
 Certified Economist, Economic Chamber of Greece, year-present
 Certified Accountant and Tax Consultant Class A, Economic Chamber of Greece, year to present
-
 
 ## Programming Experience
 2019, Academic Website 
@@ -140,6 +138,7 @@ Financial accounting year-end adjustments and Financial statements syntax, Econo
 Business Administration, Adult Education Centres, http://kee.ideke.edu.gr/ (25h)
 
 ## Projects
+
 CFA Institute Research Challenge in Greece, Local participant with a team of 5 students to prepare a comprehensive sell - side initiating coverage report on Aegean Airlines, Nov 2014 - Mar 2015
 
 
@@ -149,50 +148,7 @@ CFA Institute Research Challenge in Greece, Local participant with a team of 5 s
 ### Peer-Reviewed Journal Articles
 
 \hangindent=2em
-Cash Holdings and Firm Characteristics: Evidence from UK Market, Magerakis, E., Siriopoulos, C., & Tsagkanos, A., Journal of Risk & Control, 2(1), 19–43, 2015 [html] [pdf]
-
-\hangindent=2em
-Xu, R., Frank, K. A., Maroulis, S., & Rosenberg, J. M. (in press). Konfound: A Stata module to quantify robustness of causal inferences. *The Stata Journal*. https://www.stata-journal.com/ (*Nb. Software-related publication*)
-
-\hangindent=2em
-Rosenberg, J. M., & Lawson, M. J. (2019). An investigation of students’ use of a computational science simulation in an online high school physics class, *Education Sciences, 9*(49), 1-19. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M., Beymer, P. N., Anderson, D. J., & Schmidt, J. A. (2018). tidyLPA: An R package to easily carry out Latent Profile Analysis (LPA) using open-source or commercial software. *Journal of Open Source Software, 3*(30), 978. https://doi.org/10.21105/joss.00978 <a href = "/pre-prints/rosenberg-et-al-2018-joss.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. Software-related publication*)
-
-\hangindent=2em
-Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*(5), 501-508. https://doi.org/10.1007/s11528-018-0313-6 <a href = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., & Naftzger, N. (2018). Examining relationships between choice, affect, and engagement in out-of-school time STEM programs. *Journal of Youth and Adolescence, 47*(6), 1178-1191. https://doi.org/10.1007/s10964-018-0814-9 <a href = "/pre-prints/Beymer-Rosenberg-Schmidt-2018-JYA.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Akcaoglu, M., Rosenberg, J. M., Ranellucci, J., & Schwarz, C. V. (2018). Outcomes from a self-generated utility value intervention on fifth and sixth-grade students’ value and interest in science. *International Journal of Educational Research, 87*, 67-77. https://www.sciencedirect.com/science/article/pii/S0883035517308492 <a href = "/pre-prints/Akcaoglu_Rosenberg_Ranellucci_Schwarz_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context approach to student engagement in science: Examining learning activities and choice. *Journal of Research in Science Teaching, 55*(1), 19-43. https://dx.doi.org/10.1002/tea.21409 <a href = "/pre-prints/Schmidt_Rosenberg_Beymer_2018_preprint.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (*Nb. This article was recognized as one of the 20 most-downloaded articles in JRST between June, 2016 and June, 2018*)
-
-\hangindent=2em
-Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. & Koehler, M.J. (2017). Strategies, use, and impact of social media for supporting teacher community within professional development: The case of one urban STEM program. *Journal of Computers in Mathematics and Science Teaching, 36*(3), 255-267. https://www.learntechlib.org/primary/p/180387/ <a href = "/pre-prints/Rosenberg-Greenhalgh-Wolf-Koehler-2017-JCMST.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Koehler, M. J., Greenhalgh, S. P., Rosenberg, M. J., & Keenan, S. (2017). What the tech is going on with digital teaching portfolios? Using the TPACK framework to analyze teachers’ technological understanding. *Journal of Technology and Teacher Education, 25*, 31-59. http://www.learntechlib.org/p/173346/ <a href = "
-https://www.researchgate.net/publication/322383926_What_the_tech_is_going_on_with_digital_teaching_portfolios_Using_the_TPACK_framework_to_analyze_teachers%27_technological_understanding?_iepl%5BviewId%5D=0Hu6p0QxHuwQgk1OBUJLiRwi&_iepl%5BprofilePublicationItemVariant%5D=default&_iepl%5Bcontexts%5D%5B0%5D=prfpi&_iepl%5BtargetEntityId%5D=PB%3A322383926&_iepl%5BinteractionType%5D=publicationTitle"><img src="/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M., Greenhalgh, S. P., Koehler, M. J., Hamilton, E., & Akcaoglu, M. (2016). An investigation of State Educational Twitter Hashtags (SETHs) as affinity spaces. *E-Learning and Digital Media, 13*(1-2), 24-44. http://dx.doi.org/10.1177/2042753016672351 <a href = "/pre-prints/Rosenberg-Greenhalgh-Koehler-Hamilton-Akcaoglu-2016-EDM.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Greenhalgh, S. P., Rosenberg, J. M., & Wolf, L. G. (2016). For all intents and purposes: Twitter as a foundational technology for teachers. *E-Learning and Digital Media, 13*(1-2), 81-98. http://dx.doi.org/10.1177/2042753016672131 <a href = "/pre-prints/Greenhalgh-Rosenberg-Wolf-2016-EDM.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Hamilton, E., Rosenberg, J. M., & Akcaoglu, M. (2016). Examining the Substitution Augmentation Modification Redefinition (SAMR) model for technology integration. *Tech Trends, 60*, 433-441. http://dx.doi.org/10.1007/s11528-016-0091-y <a href = "/pre-prints/Hamilton-Rosenberg-Akcaoglu-2016-TT.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design guidelines for graduate program social media use. *Tech Trends, 2*, 167-175. http://dx.doi.org/10.1007/s11528-016-0023-x <a href = "https://www.researchgate.net/publication/296223580_Design_Guidelines_for_Graduate_Program_Socialstatic_Use?_iepl%5BviewId%5D=gRmZM6fWrccOAzmosAfB8zYd&_iepl%5BprofilePublicationItemVariant%5D=default&_iepl%5Bcontexts%5D%5B0%5D=prfpi&_iepl%5BtargetEntityId%5D=PB%3A296223580&_iepl%5BinteractionType%5D=publicationTitle"><img src="/logos/research-gate.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Terry-Bell-Hiltz-Russo-2015-TT.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
-
-\hangindent=2em
-Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. http://dx.doi.org/10.1080/15391523.2015.1052663 <a href = "/pre-prints/rosenberg-koehler-2015-jrte.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+Cash Holdings and Firm Characteristics: Evidence from UK Market, Magerakis, E., Siriopoulos, C., & Tsagkanos, A., Journal of Risk & Control, 2(1), 19–43, 2015. https://www.mdpi.com/2227-7102/9/1/49 <a href = "https://osf.io/y925f/"><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> <a href = "/pre-prints/Rosenberg-Lawson-2019-es.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
 ### Other Publications
 
